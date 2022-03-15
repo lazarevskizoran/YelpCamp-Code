@@ -6,5 +6,5 @@ Using Node.JS and EJS technologies.
 Mongo DB is used as a database.
 ## Check it out
 ```
-https://obscure-ravine-73281.herokuapp.com/
+<a href="https://obscure-ravine-73281.herokuapp.com/">YelpCamp</a>
 ```
